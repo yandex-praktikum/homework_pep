@@ -1,0 +1,4 @@
+-c constraints.txt
+Scrapy==2.19.0
+lxml==6.1.0
+pytest==9.0.3
